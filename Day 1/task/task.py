@@ -1,0 +1,7 @@
+print("WELCOME TO KABOI AGENCY")
+name = input("What's your name? \n")
+input("Are you in love " + name + "? \n")
+print("wow that's good " + name)
+partner = input("what's your love's name? \n")
+print(partner + " mmmmmmh that's a nice name i love it")
+print("oooo have a blast in you're relationship then")
